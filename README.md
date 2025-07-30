@@ -1,7 +1,7 @@
 AI-Assisted Hermeneutics: Validating a Large Language Model for the Rhetorical Analysis of the Book of Revelation
 ================================================================================
 
-This repository contains the full dataset, source code, and analytical notebooks for the article, "AI-Assisted Hermeneutics: Validating a Large Language Model for the Rhetorical Analysis of the Book of Revelation." The project presents a methodologically robust, AI-assisted rhetorical reading of the Apocalypse of John, quantifying the interplay of its dominant theological themes using a bespoke eight-vector lexicon.
+This repository contains the full dataset, source code, and analytical notebooks for the article, "AI-Assisted Hermeneutics: Validating a Large Language Model for the Rhetorical Analysis of the Book of Revelation." The project presents a methodologically robust, AI-assisted rhetorical reading of the Apocalypse of John, quantifying the interplay of its dominant theological themes using a bespoke eight-vector lexicon. 
 
 The study establishes its validity through strong alignment with expert human annotation and offers a reproducible, validated heuristic for the large-scale rhetorical mapping of sacred texts.
 
