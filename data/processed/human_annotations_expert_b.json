@@ -1,0 +1,452 @@
+[
+  {
+    "unit_id": "unit_001",
+    "verse_range": "Rev 1:1-8",
+    "rhetorical_vector": {
+      "Worship & Praise": 10,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 15,
+      "Victory, Consolation & New-Creation Hope": 15,
+      "Cosmic Warfare & Deception": 15,
+      "Prophetic Exhortation & Warning": 15,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Polyphonic prologue: doxology, exhortation, and awe at coming judgment. Neutral introductory phrasing."
+  },
+  {
+    "unit_id": "unit_002",
+    "verse_range": "Rev 1:9-20",
+    "rhetorical_vector": {
+      "Worship & Praise": 15,
+      "Judicial Wrath & Punitive Action": 10,
+      "Lament, Persecution & Endurance": 15,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 10,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 25,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Inaugural vision of Christ among lampstands evokes awe and terror; exhortation to churches with endurance themes. Neutral descriptive elements of appearance."
+  },
+  {
+    "unit_id": "unit_003",
+    "verse_range": "Rev 2:1-3:22",
+    "rhetorical_vector": {
+      "Worship & Praise": 10,
+      "Judicial Wrath & Punitive Action": 10,
+      "Lament, Persecution & Endurance": 20,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 15,
+      "Prophetic Exhortation & Warning": 25,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Letters focus on exhortation, warnings, and calls to endurance; promises of victory amid persecution. Neutral repetitive formulas like 'to the angel'."
+  },
+  {
+    "unit_id": "unit_004",
+    "verse_range": "Rev 4:1-11",
+    "rhetorical_vector": {
+      "Worship & Praise": 50,
+      "Judicial Wrath & Punitive Action": 5,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 5,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 20,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Heavenly worship around the throne; strong awe in the vision of God's holiness. Neutral descriptions of living creatures."
+  },
+  {
+    "unit_id": "unit_005",
+    "verse_range": "Rev 5:1-14",
+    "rhetorical_vector": {
+      "Worship & Praise": 55,
+      "Judicial Wrath & Punitive Action": 5,
+      "Lament, Persecution & Endurance": 10,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 0,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Worthy Lamb and hymns dominate; subtle lament in scroll's sealing. Neutral scroll and elder dialogue."
+  },
+  {
+    "unit_id": "unit_006",
+    "verse_range": "Rev 6:1-17",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 45,
+      "Lament, Persecution & Endurance": 10,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 10,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 15,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Seals bring wrath and cosmic terror; cries of lament from earth-dwellers. Neutral seal-opening sequence."
+  },
+  {
+    "unit_id": "unit_007",
+    "verse_range": "Rev 7:1-17",
+    "rhetorical_vector": {
+      "Worship & Praise": 25,
+      "Judicial Wrath & Punitive Action": 5,
+      "Lament, Persecution & Endurance": 20,
+      "Victory, Consolation & New-Creation Hope": 25,
+      "Cosmic Warfare & Deception": 5,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Multitude's victory praise after tribulation; Ezekiel 9 sealing as consolation. Neutral tribal listing."
+  },
+  {
+    "unit_id": "unit_008",
+    "verse_range": "Rev 8:1",
+    "rhetorical_vector": {
+      "Worship & Praise": 5,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 10,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 45,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Heavenly silence creates intense awe before the trumpets. Neutral as transitional pause."
+  },
+  {
+    "unit_id": "unit_009",
+    "verse_range": "Rev 8:2-6",
+    "rhetorical_vector": {
+      "Worship & Praise": 10,
+      "Judicial Wrath & Punitive Action": 30,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 20,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 15,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Preparation for trumpets with prayers and fire; blends wrath, warfare, and awe. Neutral angel assignments."
+  },
+  {
+    "unit_id": "unit_010",
+    "verse_range": "Rev 8:7-12",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 65,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 0,
+      "Cosmic Warfare & Deception": 15,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Plagues as wrath; cosmic elements add warfare flavor. Neutral sequential blasts."
+  },
+  {
+    "unit_id": "unit_011",
+    "verse_range": "Rev 8:13-9:11",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 50,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 0,
+      "Cosmic Warfare & Deception": 20,
+      "Prophetic Exhortation & Warning": 15,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Eagle's woe as warning; locusts blend wrath and deception. Neutral locust imagery details."
+  },
+  {
+    "unit_id": "unit_012",
+    "verse_range": "Rev 9:12-21",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 40,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 35,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Cavalry as warfare and deception; unrepentance heightens awe. Neutral army descriptions."
+  },
+  {
+    "unit_id": "unit_013",
+    "verse_range": "Rev 10:1-11:13",
+    "rhetorical_vector": {
+      "Worship & Praise": 5,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 25,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 10,
+      "Prophetic Exhortation & Warning": 20,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Witnesses' prophecy and martyrdom stress exhortation and endurance. Neutral measurement and timeline details."
+  },
+  {
+    "unit_id": "unit_014",
+    "verse_range": "Rev 11:14-19",
+    "rhetorical_vector": {
+      "Worship & Praise": 35,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 25,
+      "Cosmic Warfare & Deception": 5,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Trumpet heralds God's kingdom with praise and victorious hope. Neutral temple opening."
+  },
+  {
+    "unit_id": "unit_015",
+    "verse_range": "Rev 12:1-13:18",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 5,
+      "Lament, Persecution & Endurance": 15,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 35,
+      "Prophetic Exhortation & Warning": 15,
+      "Theophanic Awe & Terror": 20,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Deception central; dragon's signs evoke terror, Danielic warfare. Neutral symbolic interpretations."
+  },
+  {
+    "unit_id": "unit_016",
+    "verse_range": "Rev 14:1-5",
+    "rhetorical_vector": {
+      "Worship & Praise": 45,
+      "Judicial Wrath & Punitive Action": 0,
+      "Lament, Persecution & Endurance": 10,
+      "Victory, Consolation & New-Creation Hope": 30,
+      "Cosmic Warfare & Deception": 0,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Redeemed singing on Zion; worship and victory motifs dominate. Neutral 144,000 count."
+  },
+  {
+    "unit_id": "unit_017",
+    "verse_range": "Rev 14:6-13",
+    "rhetorical_vector": {
+      "Worship & Praise": 15,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 10,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 10,
+      "Prophetic Exhortation & Warning": 30,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Angels proclaim eternal gospel and warnings; exhortation to endurance. Neutral angel announcements."
+  },
+  {
+    "unit_id": "unit_018",
+    "verse_range": "Rev 14:14-20",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 60,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 15,
+      "Cosmic Warfare & Deception": 5,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Harvest as wrath with victory undertone; Isaiah 63 ethical concerns. Neutral reaper figures."
+  },
+  {
+    "unit_id": "unit_019",
+    "verse_range": "Rev 15:1-8",
+    "rhetorical_vector": {
+      "Worship & Praise": 35,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 20,
+      "Cosmic Warfare & Deception": 5,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Victors' song praises God; awe in smoke-filled temple before plagues. Neutral sea of glass."
+  },
+  {
+    "unit_id": "unit_020",
+    "verse_range": "Rev 16:1-21",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 65,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 0,
+      "Cosmic Warfare & Deception": 15,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Bowls unleash final wrath; cosmic signs and unrepentant blasphemy. Neutral bowl-pouring sequence."
+  },
+  {
+    "unit_id": "unit_021",
+    "verse_range": "Rev 17:1-18",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 10,
+      "Lament, Persecution & Endurance": 10,
+      "Victory, Consolation & New-Creation Hope": 0,
+      "Cosmic Warfare & Deception": 55,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Babylon's deception dominates; beast's heads as warfare symbol. Neutral interpretive angel speech."
+  },
+  {
+    "unit_id": "unit_022",
+    "verse_range": "Rev 18:1-24",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 35,
+      "Lament, Persecution & Endurance": 25,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 20,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Laments over Babylon's fall; wrath and deception themes with persecution of saints. Neutral merchandise lists."
+  },
+  {
+    "unit_id": "unit_023",
+    "verse_range": "Rev 19:1-5",
+    "rhetorical_vector": {
+      "Worship & Praise": 55,
+      "Judicial Wrath & Punitive Action": 10,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 15,
+      "Cosmic Warfare & Deception": 0,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 10,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Hallelujah praise celebrates judgment; subtle victory motif. Neutral multitude voices."
+  },
+  {
+    "unit_id": "unit_024",
+    "verse_range": "Rev 19:6-21",
+    "rhetorical_vector": {
+      "Worship & Praise": 25,
+      "Judicial Wrath & Punitive Action": 20,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 25,
+      "Cosmic Warfare & Deception": 15,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 0,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Wedding feast and Christ's return bring victory, praise, and wrath on evil. Neutral rider descriptions."
+  },
+  {
+    "unit_id": "unit_025",
+    "verse_range": "Rev 20:1-10",
+    "rhetorical_vector": {
+      "Worship & Praise": 5,
+      "Judicial Wrath & Punitive Action": 25,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 30,
+      "Cosmic Warfare & Deception": 25,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 0,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Binding of Satan and millennium offer hope; final battle and fire as warfare/wrath. Neutral millennial timeline."
+  },
+  {
+    "unit_id": "unit_026",
+    "verse_range": "Rev 20:11-15",
+    "rhetorical_vector": {
+      "Worship & Praise": 0,
+      "Judicial Wrath & Punitive Action": 55,
+      "Lament, Persecution & Endurance": 5,
+      "Victory, Consolation & New-Creation Hope": 5,
+      "Cosmic Warfare & Deception": 5,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 15,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Throne judgment with awe; wrath on the condemned, hope for the saved. Neutral book openings."
+  },
+  {
+    "unit_id": "unit_027",
+    "verse_range": "Rev 21:1-8",
+    "rhetorical_vector": {
+      "Worship & Praise": 10,
+      "Judicial Wrath & Punitive Action": 15,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 50,
+      "Cosmic Warfare & Deception": 0,
+      "Prophetic Exhortation & Warning": 15,
+      "Theophanic Awe & Terror": 5,
+      "Other/Neutral Content": 5
+    },
+    "justification": "New creation consoles with no more pain; warnings to the wicked. Neutral cosmic transitions."
+  },
+  {
+    "unit_id": "unit_028",
+    "verse_range": "Rev 21:9-27",
+    "rhetorical_vector": {
+      "Worship & Praise": 25,
+      "Judicial Wrath & Punitive Action": 0,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 40,
+      "Cosmic Warfare & Deception": 0,
+      "Prophetic Exhortation & Warning": 10,
+      "Theophanic Awe & Terror": 20,
+      "Other/Neutral Content": 5
+    },
+    "justification": "City's splendor evokes awe and hope; nations bring glory in worship. Neutral measurements and materials."
+  },
+  {
+    "unit_id": "unit_029",
+    "verse_range": "Rev 22:1-5",
+    "rhetorical_vector": {
+      "Worship & Praise": 25,
+      "Judicial Wrath & Punitive Action": 0,
+      "Lament, Persecution & Endurance": 0,
+      "Victory, Consolation & New-Creation Hope": 50,
+      "Cosmic Warfare & Deception": 0,
+      "Prophetic Exhortation & Warning": 5,
+      "Theophanic Awe & Terror": 15,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Eden restored with healing and eternal reign; servants worship in hope. Neutral river and tree imagery."
+  },
+  {
+    "unit_id": "unit_030",
+    "verse_range": "Rev 22:6-21",
+    "rhetorical_vector": {
+      "Worship & Praise": 10,
+      "Judicial Wrath & Punitive Action": 10,
+      "Lament, Persecution & Endurance": 10,
+      "Victory, Consolation & New-Creation Hope": 10,
+      "Cosmic Warfare & Deception": 10,
+      "Prophetic Exhortation & Warning": 30,
+      "Theophanic Awe & Terror": 15,
+      "Other/Neutral Content": 5
+    },
+    "justification": "Closing exhortations and warnings; invitation and awe at Christ's return. Neutral affirmations of truth."
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "api_settings": {
+    "provider": "gemini",
+    "model": "gemini-2.5-pro",
+    "api_key_secret_name": "GOOGLE_API_KEY",
+    "request_delay_seconds": 10,
+    "generation_config": {
+      "temperature": 0.0,
+      "top_k": 1,
+      "max_output_tokens": 8192
+    }
+  },
+  "analysis_parameters": {
+    "iterations_per_unit": 10,
+    "sd_acceptance_threshold": 3.0,
+    "language_of_text": "Greek",
+    "translation": "Greek SBLG (SBL Greek New Testament)",
+    "structured_text_file": "./osborne_greek_structured.json",
+    "analytical_concepts": {
+      "description": "A bespoke, theologically-grounded lexicon of seven categories designed to map the specific theological and rhetorical modes of the Book of Revelation.",
+      "concepts_list": [
+        "Worship & Praise",
+        "Judicial Wrath & Punitive Action",
+        "Lament, Persecution & Endurance",
+        "Victory, Consolation & New-Creation Hope",
+        "Cosmic Warfare & Deception",
+        "Prophetic Exhortation & Warning",
+        "Theophanic Awe & Terror",
+        "Other/Neutral Content"
+      ]
+    }
+  },
+  "system_prompt_template": "You are an expert AI performing a Theological-Rhetorical Analysis of the Apocalypse of John from the {translation} translation ({language_of_text}).\nYour task is to analyze a provided passage of biblical text and quantify its rhetorical profile according to a specialized,\neight-category lexicon. Your output MUST be a single, raw, valid JSON object and nothing else.\n\nCRITICAL OUTPUT REQUIREMENTS:\n1.  The output MUST be a single, raw JSON object. Do not use markdown ```json fences or any other text.\n2.  The values in the 'rhetorical_vector' object MUST be numbers (float or integer).\n3.  The sum of all values in the 'rhetorical_vector' MUST equal exactly 100.0. This is a non-negotiable mathematical constraint. You must internally verify and, if necessary, normalize the values to ensure the sum is exactly 100.0 before providing the final output.\n\nANALYTICAL LEXICON AND DEFINITIONS:\nYou must analyze the text based on the following eight theological-rhetorical categories. Assign a percentage score to each category based on its prominence in the text.\n\n1.  **Worship & Praise**: Language that performs adoration, glorification, or acknowledgement of the sovereignty and worthiness of God and the Lamb (e.g., hymns, doxologies, prostration, cries of \"worthy,\" \"glory,\" \"honor,\" \"blessing\").\n2.  **Judicial Wrath & Punitive Action**: Depictions of God's righteous, covenant-grounded judgment against evil—plagues, bowls, reaping, earthquakes, destruction, vengeance, or any punitive act directed toward idolatry and oppression.\n3.  **Lament, Persecution & Endurance**: Voices or scenes of tribulation and suffering from the faithful perspective—martyrdom, \"How long, O Lord?\", tears, patient endurance, steadfast witness amid oppression.\n4.  **Victory, Consolation & New-Creation Hope**: Promises or visions of ultimate triumph, reassurance, salvation, inheritance, and eschatological renewal—conquering (νικάω), white robes, palms, the New Jerusalem, \"no more death.\"\n5.  **Cosmic Warfare & Deception**: Imagery of conflict between divine and demonic powers and the activity of monstrous adversaries—Dragon, Beast(s), Babylon, war in heaven, coercion, deceptive signs (πλανάω).\n6.  **Prophetic Exhortation & Warning**: Performative speech that commands, denounces, blesses, or admonishes—\"Write!\", \"Hear!\", \"Repent!\", \"Woe!\", \"Come out of her, my people!\", beatitudes and curses.\n7.  **Theophanic Awe & Terror**: Overwhelming dread or fascination in the face of divine manifestation or cataclysmic phenomena—falling \"as though dead,\" blinding light, thunder, smoke, cosmic upheaval, silence in heaven.\n8.  **Other/Neutral Content**: Narrative transitions, descriptive passages, or content that does not strongly align with any of the above seven categories. This includes passages where multiple categories are so interwoven that forcing separation would misrepresent the text's rhetorical unity.\n\nTASK INSTRUCTIONS:\n1.  Carefully read the provided text from the Apocalypse.\n2.  Analyze its content based on the eight categories defined above.\n3.  Assign a percentage score (0.0 to 100.0) to each category, ensuring the total sum is 100.0.\n4.  Use the \"Other/Neutral Content\" category when the text contains elements that don't fit clearly into the seven theological categories OR when multiple categories are so deeply interwoven that separating them would distort the text's meaning.\n5.  Provide a brief, text-grounded justification for your scoring, citing specific words or phrases.\n\nINPUT DATA:\n- Unit ID: {unit_id}\n- Verse Range: {verse_range}\n- Text for Analysis:\n{full_text}\n\nREQUIRED JSON STRUCTURE:\n{example_json_structure_placeholder}\nESSENTIAL: SANITIZE THE OUTPUT\nGENERATE THE RAW JSON OBJECT NOW.",
+  "example_json_output_structure": {
+    "unit_id": "example_unit_id",
+    "verse_range": "EXAMPLE 1:1-2",
+    "rhetorical_vector": {
+      "Worship & Praise": 0.0,
+      "Judicial Wrath & Punitive Action": 0.0,
+      "Lament, Persecution & Endurance": 0.0,
+      "Victory, Consolation & New-Creation Hope": 0.0,
+      "Cosmic Warfare & Deception": 0.0,
+      "Prophetic Exhortation & Warning": 0.0,
+      "Theophanic Awe & Terror": 0.0,
+      "Other/Neutral Content": 0.0
+    },
+    "justification": "Example justification..."
+  }
+}

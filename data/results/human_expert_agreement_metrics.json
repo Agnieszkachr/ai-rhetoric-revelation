@@ -1,0 +1,39 @@
+{
+    "per_vector_agreement": [
+        {
+            "Vector": "Cosmic Warfare & Deception",
+            "kappa": 0.9224806201550387
+        },
+        {
+            "Vector": "Judicial Wrath & Punitive Action",
+            "kappa": 0.8986486486486486
+        },
+        {
+            "Vector": "Lament, Persecution & Endurance",
+            "kappa": 0.7333333333333334
+        },
+        {
+            "Vector": "Other/Neutral Content",
+            "kappa": -0.023809523809523798
+        },
+        {
+            "Vector": "Prophetic Exhortation & Warning",
+            "kappa": 0.8333333333333334
+        },
+        {
+            "Vector": "Theophanic Awe & Terror",
+            "kappa": 0.6989247311827956
+        },
+        {
+            "Vector": "Victory, Consolation & New-Creation Hope",
+            "kappa": 0.7333333333333334
+        },
+        {
+            "Vector": "Worship & Praise",
+            "kappa": 0.8634812286689421
+        }
+    ],
+    "overall_agreement": {
+        "kappa": 0.8247172729098543
+    }
+}

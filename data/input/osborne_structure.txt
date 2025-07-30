@@ -1,0 +1,34 @@
+# Grant R. Osborne
+# From: Revelation, Baker Exegetical Commentary on the New Testament, pp. 44-45
+# Short: Osborne
+#
+unit_001,"Prologue",RE 1:1-8  
+unit_002,"Inaugural vision",RE 1:9-20  
+unit_003,"Letters to the seven churches",RE 2:1-3:22  
+unit_004,"God on his throne",RE 4:1-11  
+unit_005,"Christ the Lamb, worthy to open the seals",RE 5:1-14  
+unit_006,"First six seals",RE 6:1-17  
+unit_007,"First interlude: saints on earth and in heaven",RE 7:1-17  
+unit_008,"Seventh seal",RE 8:1  
+unit_009,"Introduction to trumpet judgments",RE 8:2-6  
+unit_010,"First four trumpets",RE 8:7-12  
+unit_011,"Fifth trumpet / first woe",RE 8:13-9:11  
+unit_012,"Sixth trumpet",RE 9:12-21  
+unit_013,"Interlude: prophecy and witness",RE 10:1-11:13  
+unit_014,"Seventh trumpet",RE 11:14-19  
+unit_015,"Conflict between the dragon and God as well as his people",RE 12:1-13:18  
+unit_016,"Song of the 144,000",RE 14:1-5  
+unit_017,"Message of three angels",RE 14:6-13  
+unit_018,"Harvest of the earth",RE 14:14-20  
+unit_019,"Introduction to the bowls�angels with final plagues",RE 15:1-8  
+unit_020,"Seven last bowl judgments",RE 16:1-21  
+unit_021,"The great prostitute on the scarlet beast",RE 17:1-18  
+unit_022,"Fall of Babylon the Great",RE 18:1-24  
+unit_023,"Hallelujah chorus�joy at his just judgment",RE 19:1-5  
+unit_024,"Final victory: the end of the evil empire at the parousia",RE 19:6-21  
+unit_025,"The thousand-year reign of Christ and final destruction of Satan",RE 20:1-10  
+unit_026,"Great white throne judgment",RE 20:11-15  
+unit_027,"Coming of new heaven and new earth",RE 21:1-8  
+unit_028,"New Jerusalem as the Holy of Holies",RE 21:9-27  
+unit_029,"New Jerusalem as the final Eden",RE 22:1-5  
+unit_030,"Epilogue",RE 22:6-21

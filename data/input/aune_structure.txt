@@ -1,0 +1,33 @@
+# David E. Aune
+# From: Revelation 1-5, WBC 52A, Grand Rapids MI, Zondervan 1997, pp. c-cv 
+# Short: Aune
+#
+unit_001,"Prologue",RE 1:1-8
+unit_002,"Vision of one like a son of man",RE 1:9-20
+unit_003,"Proclamations to the seven churches",RE 2:1-3:22
+unit_004,"John’s heavenly ascent",RE 4:1-2
+unit_005,"The vision of the heavenly throne room",RE 4:2-5:14
+unit_006,"The Lamb breaks the first six seals",RE 6:1-17
+unit_007,"The protective sealing of the 144,000",RE 7:1-17
+unit_008,"The seventh seal",RE 8:1
+unit_009,"Vision of the first six trumpets",RE 8:2-9:21
+unit_010,"The angel and the little scroll",RE 10:1-11
+unit_011,"The temple and the two witnesses",RE 11:1-14
+unit_012,"The seventh trumpet",RE 11:15-18
+unit_013,"The Woman, the Child, and the Dragon",RE 11:19-12:17
+unit_014,"The two Beasts",RE 12:18-13:18
+unit_015,"Visions of eschatological salvation and judgment",RE 14:1-20
+unit_016,"The seven bowls",RE 15:1-16:21
+unit_017,"Introduction to the revelations",RE 17:1-2
+unit_018,"The allegorical vision of Babylon as the great Whore",RE 17:3-18
+unit_019,"The destruction of Babylon",RE 18:1-24
+unit_020,"Heavenly throne-room audition",RE 19:1-8
+unit_021,"Concluding angelic revelation",RE 19:9-10
+unit_022,"The divine warrior and his conquests",RE 19:11-21
+unit_023,"The final defeat of Satan",RE 20:1-10
+unit_024,"Vision of the judgment of the dead",RE 20:11-15
+unit_025,"The transition to the new order",RE 21:1-8
+unit_026,"Introduction to the vision",RE 21:9-10
+unit_027,"The seer visits the New Jerusalem",RE 21:10-22:5
+unit_028,"Transitional conclusion",RE 22:6-9
+unit_029,"Epilogue",RE 22:10-21

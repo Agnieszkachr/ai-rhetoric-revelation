@@ -1,0 +1,50 @@
+[
+    {
+        "Vector":"Worship & Praise",
+        "Pearson r":0.7855595793,
+        "Spearman \u03c1":0.679353935,
+        "Mean Abs \u0394 (pp)":5.9534653465
+    },
+    {
+        "Vector":"Judicial Wrath & Punitive Action",
+        "Pearson r":0.7862493632,
+        "Spearman \u03c1":0.8372267495,
+        "Mean Abs \u0394 (pp)":9.2643564356
+    },
+    {
+        "Vector":"Lament, Persecution & Endurance",
+        "Pearson r":0.469132279,
+        "Spearman \u03c1":0.5796822253,
+        "Mean Abs \u0394 (pp)":4.6594059406
+    },
+    {
+        "Vector":"Victory, Consolation & New-Creation Hope",
+        "Pearson r":0.8620355681,
+        "Spearman \u03c1":0.7801272936,
+        "Mean Abs \u0394 (pp)":10.4693069307
+    },
+    {
+        "Vector":"Cosmic Warfare & Deception",
+        "Pearson r":0.841405892,
+        "Spearman \u03c1":0.7383126038,
+        "Mean Abs \u0394 (pp)":6.2564356436
+    },
+    {
+        "Vector":"Prophetic Exhortation & Warning",
+        "Pearson r":0.860544352,
+        "Spearman \u03c1":0.7694989376,
+        "Mean Abs \u0394 (pp)":5.2024752475
+    },
+    {
+        "Vector":"Theophanic Awe & Terror",
+        "Pearson r":0.6299745531,
+        "Spearman \u03c1":0.67854104,
+        "Mean Abs \u0394 (pp)":6.0356435644
+    },
+    {
+        "Vector":"Other\/Neutral Content",
+        "Pearson r":0.3265144688,
+        "Spearman \u03c1":0.4535545551,
+        "Mean Abs \u0394 (pp)":14.2717821782
+    }
+]

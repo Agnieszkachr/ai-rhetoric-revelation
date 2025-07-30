@@ -1,0 +1,106 @@
+{
+    "analysis_summary": {
+        "description": "Compares the primary rhetorical classification of units before and after adding Gaussian noise to test conceptual integrity.",
+        "noise_level_std_dev": 5.0,
+        "total_units_analyzed": 30,
+        "stable_classifications": 28,
+        "unstable_classifications": 2,
+        "overall_stability_percent": 93.33333333333333
+    },
+    "classification_changes": [
+        {
+            "unit_id": "unit_013",
+            "verse_range": "RE 10:1-11:13",
+            "original_classification": "Lament, Persecution & Endurance",
+            "noised_classification": "Prophetic Exhortation & Warning"
+        },
+        {
+            "unit_id": "unit_019",
+            "verse_range": "RE 15:1-8",
+            "original_classification": "Worship & Praise",
+            "noised_classification": "Judicial Wrath & Punitive Action"
+        }
+    ],
+    "confusion_matrix": {
+        "Worship & Praise": {
+            "Worship & Praise": 5,
+            "Judicial Wrath & Punitive Action": 1,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 0,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        },
+        "Judicial Wrath & Punitive Action": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 11,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 0,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        },
+        "Lament, Persecution & Endurance": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 0,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 1,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        },
+        "Victory, Consolation & New-Creation Hope": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 0,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 5,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 0,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        },
+        "Cosmic Warfare & Deception": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 0,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 3,
+            "Prophetic Exhortation & Warning": 0,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        },
+        "Prophetic Exhortation & Warning": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 0,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 2,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        },
+        "Theophanic Awe & Terror": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 0,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 0,
+            "Theophanic Awe & Terror": 2,
+            "Other/Neutral Content": 0
+        },
+        "Other/Neutral Content": {
+            "Worship & Praise": 0,
+            "Judicial Wrath & Punitive Action": 0,
+            "Lament, Persecution & Endurance": 0,
+            "Victory, Consolation & New-Creation Hope": 0,
+            "Cosmic Warfare & Deception": 0,
+            "Prophetic Exhortation & Warning": 0,
+            "Theophanic Awe & Terror": 0,
+            "Other/Neutral Content": 0
+        }
+    }
+}

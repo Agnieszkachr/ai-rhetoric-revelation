@@ -1,0 +1,57 @@
+{
+    "intra_model_stability_gemini": {
+        "model": "Gemini",
+        "metric": "Mean Pair-wise Cosine Similarity",
+        "value": 0.9873585983577856
+    },
+    "intra_model_stability_groq": {
+        "model": "Groq/Llama",
+        "metric": "Mean Pair-wise Cosine Similarity",
+        "value": 0.999738005272028
+    },
+    "cross_model_replication": {
+        "models": "Gemini vs. Groq/Llama",
+        "metric": "Spearman Correlation (rho)",
+        "value": 0.5291324244425375,
+        "p_value": 1.02097931977256e-18
+    },
+    "morphological_proxy": {
+        "model": "Gemini",
+        "metric": "Pearson Correlation (r)",
+        "proxy": "Cultic Lemma Count vs. All Rhetorical Vectors",
+        "correlations_by_category": {
+            "Worship & Praise": {
+                "r": 0.7168637144673845,
+                "p_value": 8.326773395084572e-06
+            },
+            "Judicial Wrath & Punitive Action": {
+                "r": -0.2745743319572646,
+                "p_value": 0.1419970492835652
+            },
+            "Lament, Persecution & Endurance": {
+                "r": -0.0692139067154396,
+                "p_value": 0.7162852276606424
+            },
+            "Victory, Consolation & New-Creation Hope": {
+                "r": 0.05632409109331562,
+                "p_value": 0.7675158639269055
+            },
+            "Cosmic Warfare & Deception": {
+                "r": -0.171558687236792,
+                "p_value": 0.364679644176793
+            },
+            "Prophetic Exhortation & Warning": {
+                "r": -0.13531569110454733,
+                "p_value": 0.4758759592187913
+            },
+            "Theophanic Awe & Terror": {
+                "r": -0.11353717290740493,
+                "p_value": 0.5502527512434394
+            },
+            "Other/Neutral Content": {
+                "r": 0.15902068925415433,
+                "p_value": 0.4012771552675797
+            }
+        }
+    }
+}

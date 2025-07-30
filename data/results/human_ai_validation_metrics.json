@@ -1,0 +1,34 @@
+{
+    "Cosmic Warfare & Deception": {
+        "pearson_r": 0.8326265848842456,
+        "p_value": 1.1547316018675477e-08
+    },
+    "Judicial Wrath & Punitive Action": {
+        "pearson_r": 0.8982664112304112,
+        "p_value": 1.6564469613190113e-11
+    },
+    "Lament, Persecution & Endurance": {
+        "pearson_r": 0.6634951137416999,
+        "p_value": 6.426265983848209e-05
+    },
+    "Other/Neutral Content": {
+        "pearson_r": 0.16939030964484908,
+        "p_value": 0.37086363179321485
+    },
+    "Prophetic Exhortation & Warning": {
+        "pearson_r": 0.7820378359853026,
+        "p_value": 3.3315668098694355e-07
+    },
+    "Theophanic Awe & Terror": {
+        "pearson_r": 0.7549656529399986,
+        "p_value": 1.429382436256217e-06
+    },
+    "Victory, Consolation & New-Creation Hope": {
+        "pearson_r": 0.8866499624630831,
+        "p_value": 6.989652593307495e-11
+    },
+    "Worship & Praise": {
+        "pearson_r": 0.9141438398781855,
+        "p_value": 1.7025864531779919e-12
+    }
+}

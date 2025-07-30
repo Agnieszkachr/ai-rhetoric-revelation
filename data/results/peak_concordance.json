@@ -1,0 +1,32 @@
+[
+    {
+        "Theme":"Wrath",
+        "Peak Verses (Osborne ID)":"RE 8:7-12 (unit_010)",
+        "Peak Verses (Aune ID)":"RE 6:1-17 (unit_006)",
+        "Concordant?":"\u2718"
+    },
+    {
+        "Theme":"Deception",
+        "Peak Verses (Osborne ID)":"RE 12:1-13:18 (unit_015)",
+        "Peak Verses (Aune ID)":"RE 11:19-12:17 (unit_013)",
+        "Concordant?":"\u2714"
+    },
+    {
+        "Theme":"Worship",
+        "Peak Verses (Osborne ID)":"RE 4:1-11 (unit_004)",
+        "Peak Verses (Aune ID)":"RE 19:1-8 (unit_020)",
+        "Concordant?":"\u2718"
+    },
+    {
+        "Theme":"Consolation",
+        "Peak Verses (Osborne ID)":"RE 21:9-27 (unit_028)",
+        "Peak Verses (Aune ID)":"RE 21:10-22:5 (unit_027)",
+        "Concordant?":"\u2714"
+    },
+    {
+        "Theme":"Lament",
+        "Peak Verses (Osborne ID)":"RE 10:1-11:13 (unit_013)",
+        "Peak Verses (Aune ID)":"RE 6:1-17 (unit_006)",
+        "Concordant?":"\u2718"
+    }
+]
