@@ -109,7 +109,7 @@ Citation
 
 If you use the code or data from this repository in your research, please cite the following:
 
-   Agnieszka B. Ziemińska, “AI Rhetoric in Revelation: Dataset & Code,” Zenodo, 2025, DOI: [DOI to be inserted upon archival].
+   Agnieszka B. Ziemińska, “AI Rhetoric in Revelation: Dataset & Code,” Zenodo, 2025, DOI: 10.5281/zenodo.16616355
 
 
 License
