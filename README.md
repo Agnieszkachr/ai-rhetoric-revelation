@@ -1,9 +1,11 @@
 AI-Assisted Hermeneutics: Validating a Large Language Model for the Rhetorical Analysis of the Book of Revelation
 ================================================================================
 
-This repository contains the full dataset, source code, and analytical notebooks for the article, "AI-Assisted Hermeneutics: Validating a Large Language Model for the Rhetorical Analysis of the Book of Revelation." The project presents a methodologically robust, AI-assisted rhetorical reading of the Apocalypse of John, quantifying the interplay of its dominant theological themes using a bespoke eight-vector lexicon.
+This repository contains the full dataset, source code, and analytical notebooks for the article, "AI-Assisted Hermeneutics: Validating a Large Language Model for the Rhetorical Analysis of the Book of Revelation." The project presents a methodologically robust, AI-assisted rhetorical reading of the Apocalypse of John, quantifying the interplay of its dominant theological themes using a bespoke eight-vector lexicon. 
 
 The study establishes its validity through strong alignment with expert human annotation and offers a reproducible, validated heuristic for the large-scale rhetorical mapping of sacred texts.
+
+
 
 
 Repository Structure
@@ -69,23 +71,43 @@ The project is organized into a clear workflow, separating source data, processi
 How to Reproduce the Analysis
 -----------------------------
 
-1. Set up Environment: Create and activate a Python 3.11 environment.
+1. Set up Environment: This project can be set up using **uv** (suggested for faster resolution) or Conda/pip.
 
+   **Using uv (Recommended):**
    ```bash
-   conda create -n rev_ai python=3.11 && conda activate rev_ai
+   # Install uv if you haven't already
+   pip install uv
+
+   # Create virtual environment
+   uv venv --python 3.11
+
+   # Activate environment
+   # On Windows:
+   .venv\Scripts\activate
+   # On Linux/macOS:
+   source .venv/bin/activate
+
+   # Install dependencies
+   uv pip install -r requirements.txt
    ```
 
-2. Install Dependencies: Install all required packages.
+   **Using Conda (Alternative):**
    ```bash
+   conda create -n rev_ai python=3.11 && conda activate rev_ai
    pip install -r requirements.txt
    ```
 
-4. Configure API Keys: Create a .env file in the project's root directory and add your API keys. This file is ignored by git.
+2. Configure API Keys: Create a .env file in the project's root directory and add your API keys. This file is ignored by git.
    ```bash
    GOOGLE_API_KEY="your_gemini_api_key_here"
    GROQ_API_KEY="your_groq_api_key_here"
    ```
-5. Execute Notebooks: Run the Jupyter notebooks in numerical order (01 through 05). They are designed to be executed sequentially, with each notebook performing a distinct stage of the analysis and generating the necessary files for the next stage.
+
+3. Execute Notebooks: Run the Jupyter notebooks in numerical order (01 through 05).
+   ```bash
+   jupyter notebook
+   ```
+   Open the notebooks in the browser interface and run the cells sequentially. They are designed to be executed in order, with each notebook performing a distinct stage of the analysis and generating the necessary files for the next stage.
 
 
 Notebooks Overview
@@ -104,12 +126,15 @@ The analysis is performed by a sequence of five Jupyter notebooks.
 * 05_human_ai_validation.ipynb: Calculates and validates the AI's performance against human expert annotations. It computes inter-rater reliability (Fleiss' Kappa) for the human experts and the Pearson correlation between the AI and averaged human scores, saving the results to human_expert_agreement_metrics.json and human_ai_validation_metrics.json.
 
 
+
+
+
 Citation
 --------
 
 If you use the code or data from this repository in your research, please cite the following:
 
-   Agnieszka B. Ziemińska, “AI Rhetoric in Revelation: Dataset & Code,” Zenodo, 2025, DOI: [DOI to be inserted upon archival].
+   Agnieszka B. Ziemińska, “AI Rhetoric in Revelation: Dataset & Code,” Zenodo, 2025, DOI: 10.5281/zenodo.16616355
 
 
 License
